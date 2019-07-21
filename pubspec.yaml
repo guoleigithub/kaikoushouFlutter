@@ -58,6 +58,14 @@ flutter:
     - assets/tabbar_images/tabbar_personal.png
     - assets/tabbar_images/tabbar_reservation_selected.png
     - assets/tabbar_images/tabbar_reservation.png
+    - assets/reservation_images/reservation_class_center.png
+    - assets/reservation_images/reservation_class.png
+    - assets/reservation_images/reservation_reservation_center.png
+    - assets/reservation_images/reservation_reservation.png
+    - assets/evaluation_images/evaluation_myself_test.png
+    - assets/evaluation_images/evaluation_score.png
+    - assets/evaluation_images/evaluation_myself_center.png
+    - assets/evaluation_images/evaluation_score_center.png
   # To add assets to your application, add an assets section, like this:
   # assets:
   #  - images/a_dot_burr.jpeg

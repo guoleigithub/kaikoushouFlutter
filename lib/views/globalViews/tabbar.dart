@@ -126,18 +126,15 @@ class _CustomTabbarViewState extends State<CustomTabbarView> {
             ),
           ),
 
-          Expanded(//第三个按钮
-            flex: 1,
-            child: GestureDetector(
-              onTapDown: (TapDownDetails details) => {
-                print("3 button"),
-                widget.callBackFun(2),
-              },
-              child: Container(
-                color: Colors.grey,
-              ),
-            ),
-          ),
+          // Expanded(//第三个按钮
+          //   flex: 1,
+          //   child: GestureDetector(
+          //     onTapDown: (TapDownDetails details) => {
+          //       print("3 button"),
+          //       widget.callBackFun(2),
+          //     },
+          //   ),
+          // ),
 
           Expanded(//第四个按钮
             flex: 1,
